@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD LIGHTWEIGHT DITA Map//EN" "lw-map.dtd">
+<map id="sensei-brochure">
+    <topicmeta>
+        <navtitle>Sensei Sushi Franchise Opportunity</navtitle>
+    </topicmeta>
+    <topicref href="franchise-intro.dita">
+        <topicmeta>
+            <navtitle>Introduction</navtitle>
+        </topicmeta>
+    </topicref>
+    <topicref href="franchise-offer.dita"/>
+    <topicref href="franchise-terms.dita">
+        <topicref href="franchise-plan.dita"/>
+        <topicref href="fancy-roll.dita">
+            <topicmeta>
+                <navtitle>Sample recipe</navtitle>
+            </topicmeta>
+        </topicref>
+    </topicref>
+</map>

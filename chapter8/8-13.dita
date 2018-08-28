@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD LIGHTWEIGHT DITA Topic//EN" "lw-topic.dtd">
+<topic id="float">
+  <title>Root Beer Float</title>
+  <body>
+    <ul id="ingredients">
+      <li><p>20 oz root beer</p></li>
+      <li><p>A large scoop of vanilla ice cream</p></li>
+    </ul>
+    <ol id="steps">
+      <li><p>Pour root beer in a large cold glass</p></li>
+      <li><p>Scoop ice cream into the glass</p></li>
+      <li><p>Serve float as it starts to fizzle</p></li>
+    </ol>
+    <note conref="milkshake.dita#milkshake/unplug" />
+  </body>
+</topic>

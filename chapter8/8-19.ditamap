@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD LIGHTWEIGHT DITA Map//EN" "map.dtd">
+<map>
+    <topicmeta>
+        <navtitle>Soda Fountain Operator Manual</navtitle>
+    </topicmeta>
+    <keydef keys="icecream-flavor">
+        <topicmeta>
+            <linktext>Vanilla</linktext>
+        </topicmeta>
+    </keydef>
+    <topicref href="xdita-topics/milkshake.dita" format="xdita"/>
+    <topicref href="hdita-topics/float.html" format="hdita"/>
+    <topicref href="mdita-topics/bananasplit.md" format="mdita"/>
+</map>
+

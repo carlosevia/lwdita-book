@@ -1,0 +1,30 @@
+<Recipe Cuisine="Italian" Author="Unknown">
+    <Name>Marinara Sauce</Name>
+    <IngredientList>
+        <Ingredient>
+            <Quantity>2 tbsp.</Quantity>
+            <Item>olive oil</Item>
+        </Ingredient>
+        <Ingredient>
+            <Quantity>2 cloves</Quantity>
+            <Item>garlic</Item>
+            <Preparation>minced</Preparation>
+        </Ingredient>
+        <Ingredient>
+            <Quantity>1/2 tsp.</Quantity>
+            <Item>hot red pepper</Item>
+        </Ingredient>
+        <Ingredient>
+            <Quantity>28 oz.</Quantity>
+            <Item>canned tomatoes, preferably San Marzano</Item>
+        </Ingredient>
+        <Ingredient>
+            <Quantity>2 tbsp.</Quantity>
+            <Item>parsley</Item>
+            <Preparation>chopped</Preparation>
+        </Ingredient>
+    </IngredientList>
+    <Instructions>
+        <Para>Heat olive oil in a large saucepan on medium. Add garlic and hot red pepper and sweat until fragrant. Add tomatoes, breaking up into smaller pieces. Simmer on medium-low heat for at least 20 minutes. Add parsley, simmer for another five minutes. Serve over long pasta.</Para>
+    </Instructions>
+</Recipe>

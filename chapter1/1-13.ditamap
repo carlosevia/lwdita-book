@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Fantastic Cookbook</title>
+    <topichead>
+    <topicmeta><navtitle>Sauces and condiments</navtitle></topicmeta>
+    <topicref href="t-tikkamasala.dita" format="dita" />
+    <topicref href="t-mole.html" format="hdita" />
+    <topicref href="t-marinara.md" format="mdita" />
+    </topichead>
+</map>

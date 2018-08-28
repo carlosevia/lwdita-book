@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD LIGHTWEIGHT DITA Topic//EN" "lw-topic.dtd">
+<topic id="t-marinara">
+    <title>Marinara sauce</title>
+    <shortdesc>Prepare a crowd-pleasing red sauce for pasta in about 30 minutes.</shortdesc>
+    <prolog>
+        <data name="author" value="Unknown"/>
+        <data name="category" value="Italian"/>
+    </prolog>
+    <body>
+        <section>
+            <title>Ingredients</title>
+            <ul>
+                <li>
+                    <p>2 tbsp. of olive oil</p>
+                </li>
+                <li>
+                    <p>2 cloves of garlic, minced</p>
+                </li>
+                <li>
+                    <p>1/2 tsp. of hot red pepper</p>
+                </li>
+                <li>
+                    <p>28 oz. of canned tomatoes, preferably San Marzano</p>
+                </li>
+                <li>
+                    <p>2 tbsp. of parsley, chopped</p>
+                </li>
+            </ul>
+        </section>
+        <section>
+            <title>Preparation</title>
+            <ol>
+                <li>
+                    <p>Heat olive oil in a large saucepan on medium</p>
+                </li>
+                <li>
+                    <p>Add garlic and hot red pepper and sweat until fragrant</p>
+                </li>
+                <li>
+                    <p>Add tomatoes, breaking up into smaller pieces</p>
+                </li>
+                <li>
+                    <p>Simmer on medium-low heat for at least 20 minutes</p>
+                </li>
+                <li>
+                    <p>Add parsley</p>
+                </li>
+                <li>
+                    <p>Simmer for another five minutes</p>
+                </li>
+                <li>
+                    <p>Serve over long pasta.</p>
+                </li>
+            </ol>
+        </section>
+    </body>
+</topic>

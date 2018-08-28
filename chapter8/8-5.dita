@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD LIGHTWEIGHT DITA Topic//EN" "lw-topic.dtd">
+<topic id="milkshake">
+  <title>Easy Milkshake</title>
+  <body>
+    <p>The Easy Milkshake is our best-seller and a soda fountain tradition. We frequently update the recipe to incorporate fresh flavors and ingredients.</p>
+    <ul id="ingredients">
+      <li><p>1/4 cup of milk</p></li>
+      <li><p>A pint of <ph keyref="icecream-flavor"/> ice cream</p></li>
+    </ul>
+    
+    <ol id="steps">
+      <li><p>Combine all ingredients in the <ph props="setting-downtown">Blendimixx 3000</ph> <ph props="setting-foodtruck">Blendilitte 200</ph></p></li>
+      <li><p>Mix for 30 seconds</p></li>
+      <li><p>Serve in a cold fountain glass</p></li>
+    </ol>
+  </body>
+</topic>

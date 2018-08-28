@@ -1,0 +1,45 @@
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-marinara">
+    <title>Marinara Sauce</title>
+    <shortdesc>Prepare a crowd-pleasing red sauce for pasta in about 30 minutes.</shortdesc>
+    <prolog>
+        <author>Unknown</author>
+        <metadata>
+            <category>Italian</category>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <prereq>
+            <ul>
+                <li>2 tbsp. of olive oil</li>
+                <li>2 cloves of garlic, minced</li>
+                <li>1/2 tsp. of hot red pepper</li>
+                <li>28 oz. of canned tomatoes, preferably San Marzano</li>
+                <li>2 tbsp. of parsley, chopped</li>
+            </ul>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Heat olive oil in a large saucepan on medium</cmd>
+            </step>
+            <step>
+                <cmd>Add garlic and hot red pepper and sweat until fragrant</cmd>
+            </step>
+            <step>
+                <cmd>Add tomatoes, breaking up into smaller pieces</cmd>
+            </step>
+            <step>
+                <cmd>Simmer on medium-low heat for at least 20 minutes</cmd>
+            </step>
+            <step>
+                <cmd>Add parsley</cmd>
+            </step>
+            <step>
+                <cmd>Simmer for another five minutes</cmd>
+            </step>
+            <step>
+                <cmd>Serve over long pasta.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

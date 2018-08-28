@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="mixed-content">
+    <title>A DITA topic with mixed content</title>
+    <body>
+        <ul>
+            <li>I have a child <p>paragraph</p></li>
+            <li>I am just character data (text!)</li>
+            <li><p>I am just a child paragraph</p></li>
+        </ul>
+    </body>
+</topic>

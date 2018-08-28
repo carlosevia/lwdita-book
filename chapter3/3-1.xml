@@ -1,0 +1,6 @@
+<topic id="mini" domains="(lwdita-c)(no-nesting-c) (no-sections-c)">
+<title>Mini topic</title>
+<body>
+<p>No sections allowed, no nested lists allowed, no conditional processing, no conref, etc.</p>
+</body>
+</topic>
