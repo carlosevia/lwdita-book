@@ -33,6 +33,7 @@ id: install-and-setup
 author: Kevin Lewis
 ---
 # Installing and Setting up Remote Lighting
+
 Installation of your Lighting Kit includes installing the light bulbs into light
 fixtures, preparing the remote control, and programming lighting groups.
 
@@ -40,6 +41,7 @@ Before you attempt to install your Lighting Kit, please turn off the power in yo
 electrical circuit panel.
 
 ## Important Terms
+
 Circuit panel
 :   Also known as the breaker panel, it represents the main point of distribution
 circuits in a building.
@@ -60,6 +62,7 @@ id: install-and-setup
 author: Kevin Lewis
 ---
 # Installing and Setting up Remote Lighting
+
 Installation of your Lighting Kit[^1] includes installing the light bulbs into light
 fixtures, preparing the remote control, and programming lighting groups.
 
