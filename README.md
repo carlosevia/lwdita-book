@@ -6,9 +6,9 @@ This repository contains code samples from the book ["Creating Intelligent Conte
 
 * [Code samples by chapter](#code-samples-by-chapter)
 * [LwDITA updates](#lwdita-updates)
-* [Formatting of definition list in MDITA](#formatting-of-definition-list-in-mdita)
-* [Formatting of footnote in MDITA](#formatting-of-footnote-in-mdita)
-* [Formatting of note in MDITA](#formatting-of-note-in-mdita)
+  - [Formatting of definition list in MDITA](#formatting-of-definition-list-in-mdita)
+  - [Formatting of footnote in MDITA](#formatting-of-footnote-in-mdita)
+  - [Formatting of note in MDITA](#formatting-of-note-in-mdita)
 * [Relevant links](#relevant-links)
 
 ## Code samples by chapter
@@ -71,7 +71,7 @@ for generic statements that do not apply exclusively to your product.
 ### Formatting of note in MDITA
 
 There is no specific markup for expressing a note in MDITA. A previous recommendation suggested using an HDITA snippet of `<div data-
-class="note">`. That is no longer an MDITA component.
+class="note">`. That is no longer a recommended MDITA component.
 
 ## Relevant links
 
