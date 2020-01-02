@@ -9,6 +9,7 @@ This repository contains code samples from the book ["Creating Intelligent Conte
   - [Formatting of definition list in MDITA](#formatting-of-definition-list-in-mdita)
   - [Formatting of footnote in MDITA](#formatting-of-footnote-in-mdita)
   - [Formatting of note in MDITA](#formatting-of-note-in-mdita)
+* [Errata](#errata)
 * [Relevant links](#relevant-links)
 
 ## Code samples by chapter
@@ -75,6 +76,16 @@ for generic statements that do not apply exclusively to your product.
 
 There is no specific markup for expressing a note in MDITA. A previous recommendation suggested using an HDITA snippet of `<div data-
 class="note">`. That is no longer a recommended MDITA component.
+
+## Errata
+
+* Page 14, paragraph 2: "In their textbook DITA Best Practices, Bellamy et al. recommend using DITA maps to create an information set that specify which topics should be included in a user deliverable produced from the map." Should be: "In their textbook DITA Best Practices, Bellamy et al. recommend using DITA maps to create an information set that specifies which topics should be included in a user deliverable produced from the map."
+* Page 18, paragraph 1: "The theoretical axis of the evolution of DITA analyzed in this book is based on the concept of computational thinking, which is defined by their main propo- nents as follows." Should be: "The theoretical axis of the evolution of DITA analyzed in this book is based on the concept of computational thinking, which is defined by its main propo- nents as follows."
+* Page 85, penultimate paragraph: "Whereas XDITA and MDITA were designed to be functionally equivalent to each other..." Should be: "Whereas XDITA and HDITA were designed to be functionally equivalent to each other..."
+* Page 106, paragraph 2: "In XDITA and MDITA, a topic requires an @id." Should be: "In XDITA and HDITA, a topic requires an @id." 
+
+(Thanks to Chris Despopoulos)
+
 
 ## Relevant links
 
