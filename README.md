@@ -51,6 +51,39 @@ Lighting Kit
 :   The commercial product covered by this information materials.
 ```
 
+### Formatting of footnote in XDITA
+
+The content model for `<fn>` (footnote) presented in the book was breaking compatibility with DITA 1.3. In order to reestablish compatibility, `<fn>` in XDITA now requires a parent `<div>` (division, which is an existing element in DITA but new to XDITA). In XDITA, `<div>` will only be allowed as a container for `<fn>`. 
+
+The following example shows an XDITA topic with a footnote inside a division:
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD LIGHTWEIGHT DITA Topic//EN" "lw-topic.dtd">
+<topic id="program-bulbs-to-groups">
+  <title>Programming Light Bulbs to a Lighting Group</title>
+  <shortdesc>You can program one or more light bulbs to a lighting group to operate that group
+    with your remote control.</shortdesc>
+  <body>
+    <section id="context">
+      <p>Your <ph keyref="product-name"/> remote control can manage up to 250 network light bulbs on the same lighting
+        network. When you add a light bulb to the network, you can program it to one or more
+        lighting groups. You must assign a light bulb to at least one lighting group to
+        operate that light bulb  A network light bulb that is not programmed to a
+        lighting group will still operate when controlling all network light bulbs from
+        the remote control. For non-residential installations, please consult the electrical standards from the Occupational Safety and Health Administration<xref href="#program-bulbs-to-groups/osha-electric"/>.</p>
+    </section>
+        <div>
+      <fn id="osha-electric">
+        <p>Available at <xref href="https://www.osha.gov/electrical" format="html" scope="external"/></p>
+      </fn>
+    </div>
+    
+  </body>
+</topic>
+```
+
+
 ### Formatting of footnote in MDITA
 
 In MDITA extended profile, a footnote is represented by a component "made of two things: a marker in the text that will become a superscript number; a footnote definition that will be placed in a list of footnotes at the end of the document," following the [PHP Markdown Extra syntax for footnote](https://michelf.ca/projects/php-markdown/extra/#footnotes)
