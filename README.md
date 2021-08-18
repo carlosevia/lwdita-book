@@ -7,7 +7,7 @@ This repository contains code samples from the book ["Creating Intelligent Conte
 * [Code samples by chapter](#code-samples-by-chapter)
 * [LwDITA updates](#lwdita-updates)
   - [Formatting of definition list in MDITA](#formatting-of-definition-list-in-mdita)
-  - [Formatting of footnote in XDITA] (##formatting-of-footnote-in-xdita)
+  - [Formatting of footnote in XDITA] (#formatting-of-footnote-in-xdita)
   - [Formatting of footnote in MDITA](#formatting-of-footnote-in-mdita)
   - [Formatting of note in MDITA](#formatting-of-note-in-mdita)
 * [Errata](#errata)
